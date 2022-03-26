@@ -8,7 +8,7 @@ import { FaHeart, FaRegHeart } from 'react-icons/fa'
 import { get } from 'lodash'
 
 const SingleFilm = () => {
-
+//
     const { filmId } = useParams()
     const [{ singleFilm }, filmDispatch] = useFilmStore()
     const [ratingStore, ratingDispatch] = useRatingStore()
