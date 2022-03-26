@@ -1,0 +1,17 @@
+h1.logo{
+    font-family: "Palette Mosaic";
+    font-size: 2.5em;
+    text-align: center;
+    color: #000066;
+}
+
+h2{
+    font-family: "Palette Mosaic";
+    text-align: center;
+    color: #000066;
+}
+
+p, span, strong, small, ul, ol, li, input{
+    font-family: "Quicksand";
+    color: #000066;
+}
