@@ -4,7 +4,7 @@ import './App.css';
 import * as Screens from './screens';
 
 function App() {
-console.log(process.env)
+
   return (
     <div className="App">
       <BrowserRouter>
